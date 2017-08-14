@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springboot-pagehelper-web:war">
+    <output-path>$PROJECT_DIR$/springboot-pagehelper-web/target</output-path>
+    <root id="archive" name="springboot-pagehelper-web.war">
+      <element id="artifact" artifact-name="springboot-pagehelper-web:war exploded" />
+    </root>
+  </artifact>
+</component>

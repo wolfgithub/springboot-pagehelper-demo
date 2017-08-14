@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-pagehelper-dao/springboot-pagehelper-dao.iml" filepath="$PROJECT_DIR$/springboot-pagehelper-dao/springboot-pagehelper-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-pagehelper-demo.iml" filepath="$PROJECT_DIR$/springboot-pagehelper-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-pagehelper-service/springboot-pagehelper-service.iml" filepath="$PROJECT_DIR$/springboot-pagehelper-service/springboot-pagehelper-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-pagehelper-web/springboot-pagehelper-web.iml" filepath="$PROJECT_DIR$/springboot-pagehelper-web/springboot-pagehelper-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-pagehelper-work/springboot-pagehelper-work.iml" filepath="$PROJECT_DIR$/springboot-pagehelper-work/springboot-pagehelper-work.iml" />
+    </modules>
+  </component>
+</project>
